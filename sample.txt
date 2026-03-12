@@ -1,0 +1,5 @@
+GitHub Hands-on Activity
+
+This is a sample text file uploaded to demonstrate file management in GitHub.
+
+Learning GitHub helps developers track code changes and collaborate with others on software projects.
